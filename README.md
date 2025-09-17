@@ -1,3 +1,17 @@
-# Bobknows...
-This web app gives you Bob's all important (not) advice for life. Ponder it, then forget what u just read.
-This app only works with Safari browser... if you want it for other browsers, make it for other browsers and add it to the releases page specifying that browser in the release.
+Bob's Random Life Advice
+
+A tiny static web app that generates absurd, funny "advice" with one click.
+
+Files
+- index.html — main page
+- style.css — styles
+- script.js — logic and quotes
+
+How to run
+1. Open `index.html` in your browser (double-click or use "Open File").
+2. Click "Ask Bob" to get new quotes.
+
+Notes
+- Quotes are stored client-side in `script.js` and can be edited/expanded.
+- Copy and Tweet buttons let you share quotes quickly.
+- BobIsWifi is not liable for damage caused by listening to this "advice".
