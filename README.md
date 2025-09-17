@@ -15,3 +15,4 @@ Notes
 - Quotes are stored client-side in `script.js` and can be edited/expanded.
 - Copy and Tweet buttons let you share quotes quickly.
 - BobIsWifi is not liable for damage caused by listening to this "advice".
+- This app only works in Safari. Versions for other browsers coming soon.
