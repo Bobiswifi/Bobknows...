@@ -1,2 +1,3 @@
 # Bobknows...
 This web app gives you Bob's all important (not) advice for life. Ponder it, then forget what u just read.
+This app only works with Safari browser... if you want it for other browsers, make it for other browsers and add it to the releases page specifying that browser in the release.
